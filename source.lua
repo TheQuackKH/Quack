@@ -33,7 +33,7 @@ local settingsTable = {
 
 	},
 	System = {
-		usageAnalytics = {Type = 'toggle', Value = true, Name = 'Anonymised Analytics'},
+		usageAnalytics = {Type = 'toggle', Value = false, Name = 'Anonymised Analytics'},
 	}
 }
 
