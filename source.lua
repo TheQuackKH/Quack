@@ -1549,7 +1549,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 				RayfieldLibrary:Notify({
 					Title = "<3",
 					Content = "Thanks For Using - TheQuack",
-					Duration = 7,
+					Duration = 2,
 					Image = 4370033185,
 				})
 			end
